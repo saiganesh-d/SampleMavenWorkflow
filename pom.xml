@@ -43,7 +43,7 @@
 				</configuration>
 			</plugin>
 			<plugin>
-				<groupId>Sample-Maven</groupId>
+				<groupId>com.qmetry</groupId>
 				<artifactId>automation</artifactId>
 				<version>1.0.2</version>
 				<executions>
